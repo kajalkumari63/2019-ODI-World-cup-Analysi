@@ -1,1 +1,2 @@
-# 2019-ODI-World-cup-Analysi
+The analysis of the ODI World Cup 2019 using Python for data scraping and Power BI for analysis presents a robust methodology to extract, transform, and visualize cricket-related information. It used different libaries like BeautifulSoup and Requests, enables efficient web scraping from cricket statistics websites, obtaining data on player performances, team statistics, match results, and more. 
+ Once the data is collected, it is processed and structured for analysis. Power BI, is then employed to create interactive dashboards and reports. These visualizations showcase insights such as top run-scorers, leading wicket-takers, team performance trends, and match outcomes.
